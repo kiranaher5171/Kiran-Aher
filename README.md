@@ -33,10 +33,10 @@ Affiliated to Savitribai Phule Pune University, Rambhoomi, Dr.B.S.Moonje Marg, N
 
 <hr>
  <h4> languages </h4>
+ <div>
+<img align="right" width="400" alt="Shimarin" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1670498229~exp=1670498829~hmac=37f355e1c194741f095087ec34267741232736cdfa3c8e4511aca57dd7052ba5"/>
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-<div>
-<img align="right" width="400" alt="Shimarin" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1670498229~exp=1670498829~hmac=37f355e1c194741f095087ec34267741232736cdfa3c8e4511aca57dd7052ba5"/>
 <h4> currently learning </h4>
      <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" /><br>
      <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" /><br>
